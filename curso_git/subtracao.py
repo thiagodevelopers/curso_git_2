@@ -1,0 +1,1 @@
+print("A subtação é:" + 10)
